@@ -6,6 +6,7 @@ API public e de trade para usar na Bitcointoyou
 O acesso à nossa API e Trade API, é realizado via requisição HTTP POST com autorização no cabeçalho da solicitação (HTTP Header). O retorno sempre será em formato JSON. Sabendo que metodos da API Trade necessitam dos parametros de Autenticação.
 
 URL: https://api_v1.bitcointoyou.com/<metodo>
+
 API Trade
 
 balance.aspx Retorna as informações da conta;
