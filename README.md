@@ -1,6 +1,6 @@
 API da Bitcointoyou
 
-Documentação completa: https://apidoc.b2upro.com/
+Documentação completa: https://apidoc.bitcointoyou.com/
 
 Como criar a signature:
 
